@@ -1,0 +1,9 @@
+{
+  "id": "f1a36457-bd72-4245-aae4-02ba3c86fae1",
+  "name": "demo.txt",
+  "owner": "cesar",
+  "readable_by": [
+    "cesar"
+  ],
+  "extra": {}
+}
